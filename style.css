@@ -1,0 +1,41 @@
+/*GENERAL CSS*/
+body{
+	font-size: 16px;
+	margin:0px;
+	 	 	 	
+}
+
+#nav-list{
+	list-style-type: none;
+	Padding:0px;
+	margin:0px;
+	
+}
+
+#nav-list li {
+	/*float:left;*/
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#nav{
+	background-color:  #D4BA6A;
+}
+
+li, a{
+	display: block;
+}
+
+
+a{
+	padding: 12px;
+	text-decoration: none;
+	color: black;
+
+}
+#image{
+	background-image: url(2.jpg);
+	background-size: cover;
+	background-position:center center;
+	padding-top:300px;
+	padding-bottom:300px;
